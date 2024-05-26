@@ -1,0 +1,49 @@
+{
+  "id": 2,
+  "savedMessages": {
+    "id": 2,
+    "user1Id": 2,
+    "user2Id": 2,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "sadat",
+    "user2Username": "sadat"
+  },
+  "password": "password",
+  "name": "Sadat Last Name",
+  "email": "sadat@mail.com",
+  "telephoneNumber": "+98",
+  "biography": "SUT AP TA",
+  "username": "sadat",
+  "birthday": "Apr 7, 2002 12:00:00 AM",
+  "following": [
+    4,
+    7
+  ],
+  "followers": [
+    4
+  ],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    9,
+    10
+  ],
+  "chats": [],
+  "timeline": [
+    11,
+    12,
+    17
+  ],
+  "notifications": [],
+  "followRequests": [],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 20, 2021 8:18:40 AM",
+  "isPublic": true,
+  "showTel": false,
+  "showBirthday": true,
+  "showEmail": false,
+  "showLastSeen": true
+}

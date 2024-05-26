@@ -1,0 +1,46 @@
+{
+  "id": 7,
+  "savedMessages": {
+    "id": 7,
+    "user1Id": 7,
+    "user2Id": 7,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "matin",
+    "user2Username": "matin"
+  },
+  "password": "password",
+  "name": "Matin Yousefi",
+  "email": "matinyousefi@gmail.com",
+  "telephoneNumber": "+98793875",
+  "biography": "Maybe it\u0027s time to let the old ways die...",
+  "username": "matin",
+  "birthday": "Mar 27, 2002 12:00:00 AM",
+  "following": [],
+  "followers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    17
+  ],
+  "chats": [],
+  "timeline": [],
+  "notifications": [],
+  "followRequests": [],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 20, 2021 8:22:18 AM",
+  "isPublic": false,
+  "showTel": false,
+  "showBirthday": false,
+  "showEmail": false,
+  "showLastSeen": false
+}

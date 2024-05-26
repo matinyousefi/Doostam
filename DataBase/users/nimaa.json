@@ -1,0 +1,47 @@
+{
+  "id": 6,
+  "savedMessages": {
+    "id": 6,
+    "user1Id": 6,
+    "user2Id": 6,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "nimaa",
+    "user2Username": "nimaa"
+  },
+  "password": "password",
+  "name": "Nima Nourozi",
+  "email": "nima@nima.com",
+  "telephoneNumber": "+98",
+  "biography": " I am fixing a hole where the rain drops in. ",
+  "username": "nimaa",
+  "birthday": "Nov 6, 2008 12:00:00 AM",
+  "following": [
+    5,
+    7
+  ],
+  "followers": [],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    16,
+    15
+  ],
+  "chats": [],
+  "timeline": [
+    13,
+    14,
+    17
+  ],
+  "notifications": [],
+  "followRequests": [],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 20, 2021 8:49:13 AM",
+  "isPublic": true,
+  "showTel": true,
+  "showBirthday": true,
+  "showEmail": true,
+  "showLastSeen": true
+}

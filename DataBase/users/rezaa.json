@@ -1,0 +1,58 @@
+{
+  "id": 5,
+  "savedMessages": {
+    "id": 5,
+    "user1Id": 5,
+    "user2Id": 5,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "rezaa",
+    "user2Username": "rezaa"
+  },
+  "password": "password",
+  "name": "Reza Rezaie",
+  "email": "reza@gmila.com",
+  "telephoneNumber": "+98",
+  "biography": "Brother Louie. ",
+  "username": "rezaa",
+  "birthday": "Feb 2, 2002 12:00:00 AM",
+  "following": [
+    1,
+    7
+  ],
+  "followers": [
+    6
+  ],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    13,
+    14
+  ],
+  "chats": [
+    8
+  ],
+  "timeline": [
+    7,
+    8,
+    17
+  ],
+  "notifications": [
+    "sadat wants to follow you.",
+    "mojtaba wants to follow you.",
+    "mohammad rejected your follow request"
+  ],
+  "followRequests": [
+    2,
+    3
+  ],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 20, 2021 8:09:48 AM",
+  "isPublic": false,
+  "showTel": false,
+  "showBirthday": false,
+  "showEmail": false,
+  "showLastSeen": false
+}

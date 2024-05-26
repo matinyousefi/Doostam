@@ -1,0 +1,53 @@
+{
+  "id": 4,
+  "savedMessages": {
+    "id": 4,
+    "user1Id": 4,
+    "user2Id": 4,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "mohammad",
+    "user2Username": "mohammad"
+  },
+  "password": "password",
+  "name": "Mohammad Sharifi",
+  "email": "mohammad@mail.com",
+  "telephoneNumber": "+989912501032",
+  "biography": "I am gonna swing from the chandlier. ",
+  "username": "mohammad",
+  "birthday": "Jan 25, 2003 12:00:00 AM",
+  "following": [
+    2,
+    7
+  ],
+  "followers": [
+    2
+  ],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    11,
+    12
+  ],
+  "chats": [],
+  "timeline": [
+    9,
+    10,
+    17
+  ],
+  "notifications": [
+    "rezaa wants to follow you."
+  ],
+  "followRequests": [
+    5
+  ],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 19, 2021 11:51:00 PM",
+  "isPublic": false,
+  "showTel": false,
+  "showBirthday": false,
+  "showEmail": false,
+  "showLastSeen": false
+}

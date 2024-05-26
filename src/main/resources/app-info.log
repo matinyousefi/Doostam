@@ -1,0 +1,5 @@
+2021-05-20 09:07:54 [main] INFO  Doostam.Doostam - {logged in.} {user: 5}
+2021-05-20 09:12:52 [main] ERROR Doostam.DataBase - {Wrong password.} {username: erfan}
+2021-05-20 09:12:59 [main] INFO  Doostam.Doostam - {logged in.} {user: 1}
+2021-05-20 09:13:09 [main] ERROR Doostam.DataBase - {Username Not Found: chatlists} {CurrentUser: 1}
+2021-05-20 09:14:54 [main] ERROR Doostam.DataBase - {Username Not Found: password} {CurrentUser: 1}

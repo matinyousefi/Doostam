@@ -1,0 +1,47 @@
+{
+  "id": 8,
+  "user1Id": 1,
+  "user2Id": 5,
+  "messages": [
+    {
+      "userId": 5,
+      "date": "May 20, 2021 9:08:47 AM",
+      "Text": "Salam Erfan!",
+      "username": "rezaa"
+    },
+    {
+      "userId": 5,
+      "date": "May 20, 2021 9:09:22 AM",
+      "Text": "Khobi?",
+      "username": "rezaa"
+    },
+    {
+      "userId": 5,
+      "date": "May 20, 2021 9:09:50 AM",
+      "Text": "Khanom Bacheha chetoran?",
+      "username": "rezaa"
+    },
+    {
+      "userId": 1,
+      "date": "May 20, 2021 9:14:21 AM",
+      "Text": "Salam Reza",
+      "username": "erfan"
+    },
+    {
+      "userId": 1,
+      "date": "May 20, 2021 9:14:48 AM",
+      "Text": "Mamnon Khobam",
+      "username": "erfan"
+    },
+    {
+      "userId": 1,
+      "date": "May 20, 2021 9:15:20 AM",
+      "Text": "Are khodaro shokr.",
+      "username": "erfan"
+    }
+  ],
+  "unseenUser1": 0,
+  "unseenUser2": 3,
+  "user1Username": "erfan",
+  "user2Username": "rezaa"
+}

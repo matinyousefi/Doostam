@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "savedMessages": {
+    "id": 1,
+    "user1Id": 1,
+    "user2Id": 1,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "erfan",
+    "user2Username": "erfan"
+  },
+  "password": "password",
+  "name": "Erfan Last Name",
+  "email": "erfan@mail.com",
+  "telephoneNumber": "+98",
+  "biography": "SUT AP TA",
+  "username": "erfan",
+  "birthday": "Mar 27, 2002 12:00:00 AM",
+  "following": [],
+  "followers": [
+    5,
+    7
+  ],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    7,
+    8
+  ],
+  "chats": [
+    8
+  ],
+  "timeline": [
+    17
+  ],
+  "notifications": [],
+  "followRequests": [],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 19, 2021 11:43:09 PM",
+  "isPublic": false,
+  "showTel": false,
+  "showBirthday": false,
+  "showEmail": false,
+  "showLastSeen": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3,
+  "savedMessages": {
+    "id": 3,
+    "user1Id": 3,
+    "user2Id": 3,
+    "messages": [],
+    "unseenUser1": 0,
+    "unseenUser2": 0,
+    "user1Username": "mojtaba",
+    "user2Username": "mojtaba"
+  },
+  "password": "password",
+  "name": "Mojtaba Last Name",
+  "email": "mojtaba@mail.com",
+  "telephoneNumber": "+98",
+  "biography": "SUT AP TA",
+  "username": "mojtaba",
+  "birthday": "Apr 12, 2002 12:00:00 AM",
+  "following": [
+    7
+  ],
+  "followers": [],
+  "blocked": [],
+  "muted": [],
+  "articles": [
+    6
+  ],
+  "chats": [],
+  "timeline": [
+    17
+  ],
+  "notifications": [],
+  "followRequests": [],
+  "likedArticles": [],
+  "groups": {},
+  "lastOnline": "May 19, 2021 11:47:34 PM",
+  "isPublic": true,
+  "showTel": true,
+  "showBirthday": false,
+  "showEmail": false,
+  "showLastSeen": false
+}
